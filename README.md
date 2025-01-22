@@ -19,3 +19,9 @@ Once started, you can view it in your browser at [http://localhost:3000](http://
 
 Starts the test runner in watch mode, making it easy to see test results in real-time.\
 Our tests cover all critical components, ensuring the app is stable and performs as expected.
+
+### PLEASE be aware that :
+- I used Tailwind for handling CSS so whenever you see className="" in an element, that's Tailwind handling CSS !
+- The site is responsive but ONLY for MOBILE, SMALL and MEDIUM devices : the site won't be properly scaling for large computer screens ! (you can use your web navigator - inspect feature and play with the width of the page)
+
+### Happy review !
